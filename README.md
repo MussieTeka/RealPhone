@@ -1,17 +1,9 @@
-- [🚀 Live Demo](#live-demo)
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Deployed website.
-
-- [Live Demo Link](https://mussieteka.github.io/RealPhone/)
-
 <a name="readme-top"></a>
 
 <div align="center">
   <img src="images/mussie.png" alt="logo" width="300px"  height="300px" />
   <br/>
-  <h3><b>Timer App</b></h3>
+  <h3><b>Real Phone Project</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -68,11 +60,12 @@ The project was built using the following technologies:
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+The website includes the following features:
 
-- **Displays the current time in the format HH:MM:SS**
-- **Start/stop button that starts and stops the timer**
-- **Reset button that resets the timer to 00:00:00**
+- **Navigation menu with links to home, phone, accessories, and cart**
+- **Phone image with overlay and feature circles**
+- **Feature circles that rotate up and down on button click**
+- **Feature descriptions including camera, processor, display, and battery life**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +88,7 @@ In order to run this project, you need to have a web browser installed on your c
 Clone this repository to your desired folder by running the following command:
 
 ```sh
-  git@github.com:MussieTeka/Timer-App.git
+  git@github.com:MussieTeka/RealPhone.git
 ```
 
 ### Install
