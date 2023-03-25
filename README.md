@@ -6,7 +6,7 @@
   <h3><b>Real Phone Project</b></h3>
 </div>
 
-# 📗 Table of Contents
+# 📗 Table of Contents - RealPhone Project
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
